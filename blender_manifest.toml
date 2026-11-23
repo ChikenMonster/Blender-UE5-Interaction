@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "blender_ue5_interaction"
+version = "0.2.6"
+name = "Blender UE5 Interaction"
+tagline = "UE style viewport shortcuts and navigation, safely opt-in"
+maintainer = "Chiken_Monster <1130319586@qq.com>"
+type = "add-on"
+tags = ["3D View", "User Interface"]
+blender_version_min = "5.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+copyright = ["2026 Chiken_Monster"]

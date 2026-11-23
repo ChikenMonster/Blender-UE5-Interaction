@@ -1,0 +1,35 @@
+# Blender / Python generated files
+__pycache__/
+*.py[cod]
+*.pyo
+*.blend1
+*.blend2
+
+# Local environments and editor settings
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build artifacts and local QA outputs
+/dist/
+/build/
+/_probe/
+/tests/
+/docs/
+/reference/
+/tools/
+*.zip
+*.log
+*.tmp
+*.bak
+
+# Internal reports, audits, trace files and development instructions
+TEST_REPORT*.md
+*_AUDIT*.md
+*REPORT*.md
+CHANGE_LIST*.md
+*_trace.json
+SHA256SUMS.txt
